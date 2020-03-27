@@ -1,0 +1,254 @@
+@media (max-width: 1260px){
+    .reviews-slider {
+        margin-top: 68px;
+        max-width: 520px;
+        margin: 0 auto;
+    }
+    .tittle {
+        margin-bottom: 60px;
+    
+    }
+}
+@media (max-width: 1160px){
+    .white__price-items {
+        flex-wrap: wrap;
+    
+    }
+    .white__price {
+        max-width: 48%;
+        margin-bottom: 50px;
+    }
+     .price {
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+    }
+    .brand__images {
+        flex-wrap: wrap;
+}
+
+}
+@media (max-width: 1100px){
+    .top__images-circle {
+        right: -7px;
+    }
+}
+   
+@media (max-width: 1079px){
+    .top__info {
+        max-width: 425px;
+    }
+}
+
+@media (max-width: 992px) {
+ .menu__list {
+     display: none;
+     position: absolute;
+     top: 88px;
+     left: 0;
+     right: 0;
+     width: 100%;
+     text-align: center;
+     z-index: 5;
+      border-top: 2px solid #000;
+     
+ }
+ .menu__list a {
+     border-bottom: 2px solid #000;
+     padding: 10px;
+     display: block;
+ }
+ 
+ .menu__list li {
+     margin: 0;
+     background-color: #fff;
+ }
+ .btn__menu {
+     display: block;
+     cursor: pointer;
+ }
+ .menu__list a:hover {
+     background-color:#2575e7;
+     color: #fff;
+ }
+}
+
+@media (max-width: 962px){
+    .top__info {
+        max-width: 325px;
+    }
+    .menu__list a:hover {
+     background-color:#2575e7;
+     color: #fff;
+ }  
+.brand__images {
+    min-height: 275px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+}
+@media (max-width: 900px) {
+    .footer__items {
+        flex-wrap: wrap;
+        justify-content: space-between;
+}
+    .joomhost-footer__item{
+        max-width: 100%;
+        display: block;
+    }
+    .footer-knowledge__item {
+        min-width: 50%;
+        justify-content: space-around;
+    }
+    .footer {
+    padding-top: 40px;
+    padding-bottom: 60px;
+    }
+}
+@media (max-width: 855px) {
+    .top__images-box img {
+        width: 300px;
+    }
+    .top__images-circle  {
+        width: 160px;
+        height: 160px;
+        right: -30px;
+        top:-30px;
+    }
+    .menu__list a:hover {
+     background-color:#2575e7;
+     color: #fff;
+ }
+}
+@media (max-width: 740px){
+    .container__top {
+        
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-top: 50px;
+    }
+    .top__info {
+        max-width: 100%;
+        margin-bottom: 60px;
+    }
+    .menu__list a:hover {
+     background-color:#2575e7;
+     color: #fff;
+ }
+ .white__price {
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+    .white__subtittle {
+    margin-bottom: 35px;
+    
+    }
+}
+@media (max-width: 650px) {
+    .reviews {
+    padding: 60px 0;
+    
+    }
+    .reviews-box {
+        box-shadow: none;
+        display: block;
+    }
+        .reviews-slider {
+    display: block;
+   max-width: 320px;
+    }
+    .reviews-box-images {
+        min-height: 190px;
+    width: 100%;
+    }
+    .reviews-box__content {
+    width: 100%;
+    padding: 0 20px;
+    min-height: 280px;
+    }
+
+}
+@media (max-width: 440px) {
+    .tittle {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .reviews {
+        padding: 40px 0;
+    }
+    .reviews-slider .slick-list {
+        margin: 0px;
+    }
+    .slick-list {
+        padding-bottom: 10px;
+    }
+    .reviews-box__content {
+        padding: 0;
+    }
+}
+@media (max-width: 399px) {
+    .top__info h1 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 40px;
+        line-height: 40px;
+    }
+        .top__info-desrc {
+        margin-bottom: 15px
+    }
+        .top__list {
+        margin-bottom: 30px;
+    }
+        .top__images-circle {
+        right: -5px;
+        top: -5px;
+    }
+    .top__images-box img {
+    width: 250px;
+}
+    .menu__list a:hover {
+     background-color:#2575e7;
+     color: #fff;
+    }
+    .whie__image {
+    margin-top: 105px;
+    margin-bottom: 15px;
+    }
+    .tariff__plan {
+    margin-bottom: 10px;
+    }
+    .white__descr {
+    margin-bottom: 15px;
+    }
+    .white__list {
+    margin-bottom: 30px;
+    }
+    .white__tittle h2 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 14px;
+    }
+    .white {
+    padding-top: 40px;
+    }
+    .joomhost-footer__image {
+    margin-bottom: 15px;
+    }
+    .joomhost-footer__descr {
+    padding-bottom: 15px;
+    
+    }
+    .footer-name__tittle {
+    margin-bottom: 20px;
+    }
+}
+
+
+@media (min-width:993px) {
+    .menu__list {
+        display: flex !important;
+    }
+   
+   
+}
